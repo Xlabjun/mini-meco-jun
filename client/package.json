@@ -20,7 +20,7 @@
     "body-parser": "^1.20.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.390.0",
     "mini-meco": "file:..",
